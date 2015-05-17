@@ -31,6 +31,6 @@
 
 [Лекция 2 вторая часть без Autolayout](http://bestkora.com/IosDeveloper/lektsiya-2-cs193p-winter-2015-bolshe-xcode-i-swift-mvc-chast-2/)-> [Lecture2/2](https://github.com/BestKora/Calculator-cs193p-2015/tree/Lecture2/2)
 
-[Лекция 2 вторая часть c Autolayout](http://bestkora.com/IosDeveloper/lektsiya-2-cs193p-winter-2015-bolshe-xcode-i-swift-mvc-chast-3/)-> [Lecture2/3](https://github.com/BestKora/Calculator-cs193p-2015/tree/Lecture2/3)
+[Лекция 2 вторая часть c Autolayout](http://bestkora.com/IosDeveloper/lektsiya-2-cs193p-winter-2015-bolshe-xcode-i-swift-mvc-chast-3/)-> [Lecture2/3Swift1_2](https://github.com/BestKora/Calculator-cs193p-2015/tree/Lecture2/3Swift1_2)
 
 
