@@ -25,7 +25,7 @@
 
 и проблема «уйдет».
 
-Код на отдельных этапах Лекции 2 доступен через Tags
+Код на отдельных этапах Лекции 2 доступен через Tags.
 
 [Лекция 2 первая часть](http://bestkora.com/IosDeveloper/lektsiya-2-cs193p-winter-2015-bolshe-xcode-i-swift-mvc-chast-1/)-> [Lecture2/1](https://github.com/BestKora/Calculator-cs193p-2015/tree/Lecture2/1)
 
@@ -33,4 +33,4 @@
 
 [Лекция 2 вторая часть c Autolayout](http://bestkora.com/IosDeveloper/lektsiya-2-cs193p-winter-2015-bolshe-xcode-i-swift-mvc-chast-3/)-> [Lecture2/3Swift1_2](https://github.com/BestKora/Calculator-cs193p-2015/tree/Lecture2/3Swift1_2)
 
-
+Лекция 2 вторая часть c Autolayout представлена с исправленным кодом для Swift 1.2
